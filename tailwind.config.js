@@ -13,11 +13,11 @@ export default {
       },
       colors: {
         qore: {
-          black: "#111111", // Industrial Black
-          dark: "#1A1A1A",  // Dark Gray (Cards)
-          gray: "#F5F5F7",  // Light Gray (Background)
-          orange: "#FF5C00", // Safety Orange (Main Accent)
-          blue: "#00E0FF"    // Electric Blue (Tech/AI)
+                black: "#312E81", // Indigo 900 (Deep Navy)
+                dark: "#1E1B4B", // Indigo 950 (Midnight)
+                gray: "#E2E8F0", // Slate 200 (Softer Light Bg)
+                orange: "#F59E0B", // Amber 500 (Rich Accent)
+                blue: "#10B981", // Emerald 500 (Vibrant Tech)
         },
       },
     },
