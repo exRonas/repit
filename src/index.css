@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  scroll-behavior: smooth;
+}
+.tech-grid {
+  background-image: radial-gradient(#333 1px, transparent 1px);
+  background-size: 30px 30px;
+}
